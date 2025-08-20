@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on multiple Mirco-SaaS projects<br>🌱 I’m currently learning Data Mining and AI<br>💬 Ask me about anything!<br>⚡ Fun fact my go to "snack" is Cinnamon Toast Crunch
+🔭 I’m currently working on RAG for a fishing journal! (DM to partner)<br>🌱 I’m currently learning Data Mining and AI<br>💬 Ask me about anything!<br>⚡ Fun fact my go to "snack" is Cinnamon Toast Crunch
 
 
 ## 🌐 Socials:
