@@ -35,13 +35,15 @@
 </div>
 
 <div align="center">
-  <br>
   <a href="https://github.com/TylerFortune">
-    <img src="https://streak-stats.demolab.com/?user=TylerFortune&hide_border=true&ring=FF8C00&fire=E34F26&currStreakNum=F8D847&sideNums=ffffff&currStreakLabel=FF8C00&sideLabels=ffffff&dates=F8D847&background=0D1117" alt="GitHub Streak" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=TylerFortune&hide_border=true&ring=F8D847&fire=E34F26&currStreakNum=F8D847&sideNums=F8D847&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&bg_color=0D1117&v=1" alt="GitHub Streak" />
   </a>
 </div>
 
-<br>
+
+![Gradient Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
+
+### 📄Tech Stack
 
 | **Category**          | **Technologies**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | :-------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
