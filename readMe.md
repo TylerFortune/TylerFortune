@@ -1,21 +1,78 @@
-# 💫 About Me:
-🔭 I’m currently working on RAG for a fishing journal! (DM to partner)<br>🌱 I’m currently learning Data Mining and AI<br>💬 Ask me about anything!<br>⚡ Fun fact my go to "snack" is Cinnamon Toast Crunch
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=C76E00&font-weight=bold&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Tyler+Fortune!;IT+Project+Manager;Developer;Leader;Collaborator" alt="Typing SVG" />
+</div>
 
+<table>
+  <tr>
+    <td width="60%">
+      I am an <strong>IT Project Management professional</strong> and <strong>Developer</strong> with a passion for driving successful initiatives and building efficient solutions. I specialize in bridging the gap between technical complexity and strategic business goals.
+      <br><br>
+      I am always <strong>eager to collaborate</strong> on new projects and work with innovative teams. Whether it's leading a development lifecycle or contributing code, I love turning ideas into reality.
+    </td>
+    <td width="40%">
+      <h3 align="center">Skills</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/DevOps-%23E34F26.svg?style=for-the-badge&logo=github-actions&logoColor=white" alt="DevOps" />
+        <br>
+        <img src="https://img.shields.io/badge/FullStack-%23C76E00.svg?style=for-the-badge&logo=react&logoColor=white" alt="Fullstack" />
+        <br>
+        <img src="https://img.shields.io/badge/Automation-%23F8D847.svg?style=for-the-badge&logo=robot-framework&logoColor=black" alt="Automation" />
+        <br>
+        <img src="https://img.shields.io/badge/Cloud%20Management-%23FF8C00.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Cloud Management" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tylerfortune_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tyler-fortune) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tyler.l.fortune@gmail.com) 
+![Gradient Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=TylerFortune&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TylerFortune&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 📊 GitHub Stats
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <a href="https://github.com/TylerFortune"> 
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TylerFortune&show_icons=true&hide_border=true&title_color=FF8C00&icon_color=F8D847&text_color=ffffff&bg_color=0D1117" alt="GitHub Stats" />
+  </a>
+</div>
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://coff.ee/tylerfortune) 
+<div align="center">
+  <br>
+  <a href="https://github.com/TylerFortune">
+    <img src="https://streak-stats.demolab.com/?user=TylerFortune&hide_border=true&ring=FF8C00&fire=E34F26&currStreakNum=F8D847&sideNums=ffffff&currStreakLabel=FF8C00&sideLabels=ffffff&dates=F8D847&background=0D1117" alt="GitHub Streak" />
+  </a>
+</div>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+| **Category**          | **Technologies**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| :-------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**         | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white) |
+| **AI & Data Science** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)                                                                                                                                                                                            |
+| **Game Dev**          | ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Web Development**   | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)                                                                                                                                                                                                |
+| **Backend**           | ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)                                                                                                                                                                                                                                                                                                                |
+| **Tools**             | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)                                                                                                                                                                                                                                                                                                              |
+
+<div align="center">
+  <a href="https://github.com/TylerFortune">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TylerFortune&layout=compact&hide_border=true&title_color=FF8C00&icon_color=F8D847&text_color=ffffff&bg_color=0D1117" alt="Top Languages" />
+  </a>
+</div>
+
+![Gradient Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
+
+### 🚀 Top Projects
+
+Here are some of the projects I've been working on:
+
+| **Project**                           | **Description**                                                  | **Status**                                                        | **Links**                                  |
+| :------------------------------------ | :--------------------------------------------------------------- | :---------------------------------------------------------------- | :----------------------------------------- |
+| **Portfolio**                         | My personal portfolio website showcasing my skills and work.     | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) | [View Site](https://tylerfortune.com)      |
+| **Automated Firebase CI/CD Pipeline** | Automated deployment pipeline using GitHub Actions and Firebase. | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) | [View Code](./Firebase-Github-actions)     |
+| **Battleship-Server**                 | Robust server implementation for the classic Battleship game.    | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) | [View Code](./Battleship_OFFICIAL)         |
+| **Fortune Treasures**                 | A custom project exploring web development concepts.             | ![Pending](https://img.shields.io/badge/Status-Pending-orange)    | [View Site](https://shop.tylerfortune.com) |
+
+![Gradient Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
+
+<div align="center">
+  <p><i>Thanks for visiting my profile! Feel free to reach out or explore my repositories.</i></p>
+</div>
