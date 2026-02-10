@@ -77,4 +77,5 @@ Here are some of the projects I've been working on:
 
 <div align="center">
   <p><i>Thanks for visiting my profile! Feel free to reach out or explore my repositories.</i></p>
+  <p><i>contact@tylerfortune.com</i></p>
 </div>
