@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td width="60%">
-      I am an <strong>IT Project Management professional</strong> and <strong>Developer</strong> with a passion for driving successful initiatives and building efficient solutions. I specialize in bridging the gap between technical complexity and strategic business goals.
+      I am an <strong>Junior DevOps professional</strong> and <strong>Developer</strong> with a passion for driving successful initiatives and building efficient solutions. I specialize in bridging the gap between technical complexity and strategic business goals.
       <br><br>
       I am always <strong>eager to collaborate</strong> on new projects and work with innovative teams. Whether it's leading a development lifecycle or contributing code, I love turning ideas into reality.
     </td>
